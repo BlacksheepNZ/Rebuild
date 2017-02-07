@@ -1,0 +1,48 @@
+SamsGear.CartAdapter, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.CartAdapter
+SamsGear.CartAdapter, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.CartAdapter
+SamsGear.CartAdapter;md5a18e92f775d789c95ddc0d70c584b16f.CartAdapter
+samsgear.CartAdapter;md5a18e92f775d789c95ddc0d70c584b16f.CartAdapter
+SamsGear.ColourAdapter, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.ColourAdapter
+SamsGear.ColourAdapter, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.ColourAdapter
+SamsGear.ColourAdapter;md5a18e92f775d789c95ddc0d70c584b16f.ColourAdapter
+samsgear.ColourAdapter;md5a18e92f775d789c95ddc0d70c584b16f.ColourAdapter
+SamsGear.DesignAdapter, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.DesignAdapter
+SamsGear.DesignAdapter, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.DesignAdapter
+SamsGear.DesignAdapter;md5a18e92f775d789c95ddc0d70c584b16f.DesignAdapter
+samsgear.DesignAdapter;md5a18e92f775d789c95ddc0d70c584b16f.DesignAdapter
+SamsGear.OrderAdapter, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.OrderAdapter
+SamsGear.OrderAdapter, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.OrderAdapter
+SamsGear.OrderAdapter;md5a18e92f775d789c95ddc0d70c584b16f.OrderAdapter
+samsgear.OrderAdapter;md5a18e92f775d789c95ddc0d70c584b16f.OrderAdapter
+SamsGear.ProductAdapter, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.ProductAdapter
+SamsGear.ProductAdapter, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.ProductAdapter
+SamsGear.ProductAdapter;md5a18e92f775d789c95ddc0d70c584b16f.ProductAdapter
+samsgear.ProductAdapter;md5a18e92f775d789c95ddc0d70c584b16f.ProductAdapter
+SamsGear.SizeAdapter, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.SizeAdapter
+SamsGear.SizeAdapter, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.SizeAdapter
+SamsGear.SizeAdapter;md5a18e92f775d789c95ddc0d70c584b16f.SizeAdapter
+samsgear.SizeAdapter;md5a18e92f775d789c95ddc0d70c584b16f.SizeAdapter
+SamsGear.StockAdapter, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.StockAdapter
+SamsGear.StockAdapter, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.StockAdapter
+SamsGear.StockAdapter;md5a18e92f775d789c95ddc0d70c584b16f.StockAdapter
+samsgear.StockAdapter;md5a18e92f775d789c95ddc0d70c584b16f.StockAdapter
+SamsGear.DayPage, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.DayPage
+SamsGear.DayPage, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.DayPage
+SamsGear.DayPage;md5a18e92f775d789c95ddc0d70c584b16f.DayPage
+samsgear.DayPage;md5a18e92f775d789c95ddc0d70c584b16f.DayPage
+SamsGear.FinalizeSellPage, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.FinalizeSellPage
+SamsGear.FinalizeSellPage, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.FinalizeSellPage
+SamsGear.FinalizeSellPage;md5a18e92f775d789c95ddc0d70c584b16f.FinalizeSellPage
+samsgear.FinalizeSellPage;md5a18e92f775d789c95ddc0d70c584b16f.FinalizeSellPage
+SamsGear.MainActivity, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.MainActivity
+SamsGear.MainActivity, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.MainActivity
+SamsGear.MainActivity;md5a18e92f775d789c95ddc0d70c584b16f.MainActivity
+samsgear.MainActivity;md5a18e92f775d789c95ddc0d70c584b16f.MainActivity
+SamsGear.SellPage, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.SellPage
+SamsGear.SellPage, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.SellPage
+SamsGear.SellPage;md5a18e92f775d789c95ddc0d70c584b16f.SellPage
+samsgear.SellPage;md5a18e92f775d789c95ddc0d70c584b16f.SellPage
+SamsGear.StockPage, SamsGear;md5a18e92f775d789c95ddc0d70c584b16f.StockPage
+SamsGear.StockPage, SamsGear, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a18e92f775d789c95ddc0d70c584b16f.StockPage
+SamsGear.StockPage;md5a18e92f775d789c95ddc0d70c584b16f.StockPage
+samsgear.StockPage;md5a18e92f775d789c95ddc0d70c584b16f.StockPage
